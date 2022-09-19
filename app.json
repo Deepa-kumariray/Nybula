@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "plantuta",
+    "slug": "plantuta",
+    "version": "1.0.0",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "plantuta"
+}
